@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rumberkren
 - 👀 I’m interested in translating bots
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on something that needs translation to Indonesian because I can't do anything else lol
 - 📫 How to reach me: Rumberkren#9757 on discord
 
 <!---
